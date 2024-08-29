@@ -1,12 +1,12 @@
 <!-- Features -->
-<div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+<div id='services' class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
     <!-- Title -->
     <div class="mx-auto max-w-2xl mb-8 lg:mb-14 text-center">
       <h2 class="text-3xl lg:text-4xl text-gray-800 font-bold">
         Services
       </h2>
       <p class="mt-3 text-gray-800">
-        We’re versatile and can handle a wide range of tasks, including social media scheduling, content creation, automation, email management, website management, research, outreach, and more.
+        We’re versatile and can handle a wide range of tasks, including social media scheduling, content creation, content repurposing, automation, email management, website management, research, outreach, and more.
       </p>
     </div>
     <!-- End Title -->

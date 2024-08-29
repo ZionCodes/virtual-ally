@@ -1,5 +1,5 @@
 <!-- Features -->
-<div class="overflow-hidden">
+<div id="pricing" class="overflow-hidden">
     <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
       <!-- Title -->
       <div class="mx-auto max-w-2xl mb-8 lg:mb-14 text-center">
@@ -20,7 +20,6 @@
   
               <div class="mt-5">
                 <span class="text-6xl font-bold text-gray-800">$499</span>
-                <span class="text-lg font-bold text-gray-800">.99</span>
                 <span class="ms-3 text-gray-500">USD / monthly</span>
               </div>
   
@@ -59,12 +58,17 @@
   
               <div class="mt-5 grid grid-cols-2 gap-x-4 py-4 first:pt-0 last:pb-0">
                 <div>
-                  <p class="text-sm text-gray-500">Cancel anytime.</p>
-                  <p class="text-sm text-gray-500">No card required.</p>
+                  <a href="https://cal.com/virtualally/15min">
+                    <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:bg-gray-50">Book Call</button>
+                  </a>
+                  
                 </div>
-  
+                
                 <div class="flex justify-end">
-                  <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:bg-gray-50">Get Started</button>
+                  <a href="https://paystack.com/pay/9ggzahvf61">
+                    <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 focus:outline-none focus:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none">Get Started</button>
+                  </a>
+                  
                 </div>
               </div>
             </div>
@@ -80,7 +84,6 @@
   
               <div class="mt-5">
                 <span class="text-6xl font-bold text-gray-800">$999</span>
-                <span class="text-lg font-bold text-gray-800">.99</span>
                 <span class="ms-3 text-gray-500">USD / monthly</span>
               </div>
   
@@ -150,12 +153,17 @@
   
               <div class="mt-5 grid grid-cols-2 gap-x-4 py-4 first:pt-0 last:pb-0">
                 <div>
-                  <p class="text-sm text-gray-500">Cancel anytime.</p>
-                  <p class="text-sm text-gray-500">No card required.</p>
+                  <a href="https://cal.com/virtualally/15min">
+                    <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:bg-gray-50">Book Call</button>
+                  </a>
+                  
                 </div>
   
                 <div class="flex justify-end">
-                  <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 focus:outline-none focus:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none">Get Started</button>
+                  <a href="https://paystack.com/pay/-owlg-9qnh">
+                    <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 focus:outline-none focus:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none">Get Started</button>
+                  </a>
+                  
                 </div>
               </div>
             </div>
@@ -183,11 +191,6 @@
         <!-- End SVG Element -->
       </div>
   
-      <div class="mt-7 text-center">
-        <p class="text-xs text-gray-400">
-          Prices in USD. Taxes may apply.
-        </p>
-      </div>
     </div>
   </div>
   <!-- End Features -->
