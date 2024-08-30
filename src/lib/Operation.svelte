@@ -5,7 +5,7 @@
       <div class="relative z-10 lg:grid lg:grid-cols-12 lg:gap-16 lg:items-center">
         <div class="mb-10 lg:mb-0 lg:col-span-6 lg:col-start-8 lg:order-2">
           <h2 class="text-2xl text-gray-800 font-bold sm:text-3xl">
-            Fully customizable rules to match your unique needs
+            How we work
           </h2>
   
           <!-- Tab Navs -->
@@ -35,7 +35,7 @@
                 <svg class="shrink-0 mt-2 size-6 md:size-7 hs-tab-active:text-blue-600 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/><path d="M5 3v4"/><path d="M19 17v4"/><path d="M3 5h4"/><path d="M17 19h4"/></svg>
                 <span class="grow">
                   <span class="block text-lg font-semibold hs-tab-active:text-blue-600 text-gray-800">Collaborate in Real-Time</span>
-                  <span class="block mt-1 text-gray-800">Work seamlessly with your team on Airtable. Share updates, comments, and files directly on the board for efficient collaboration.</span>
+                  <span class="block mt-1 text-gray-800">Collaborate through email and social media. Share updates, comments, and files directly for efficient teamwork.</span>
                 </span>
               </span>
             </button>

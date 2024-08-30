@@ -4,7 +4,7 @@
     <div class="flex flex-wrap justify-between items-center gap-2">
       <div>
         <p class="text-xs text-gray-600">
-          © 2024 Preline Labs.
+          © 2024 Virtual Ally.
         </p>
       </div>
       <!-- End Col -->

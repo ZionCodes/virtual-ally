@@ -19,7 +19,7 @@
               <div class="text-sm text-gray-500">For Solopreneurs.</div>
   
               <div class="mt-5">
-                <span class="text-6xl font-bold text-gray-800">$499</span>
+                <span class="text-6xl font-bold text-gray-800">$299</span>
                 <span class="ms-3 text-gray-500">USD / monthly</span>
               </div>
   
@@ -40,7 +40,7 @@
                       <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                     </span>
                     <span class="text-gray-800">
-                      Average 12 hour delivery
+                      Average 6 hour delivery
                     </span>
                   </li>
   
@@ -83,7 +83,7 @@
               <span class="absolute top-0 end-0 rounded-se-xl rounded-es-xl text-xs font-medium bg-gray-800 text-white py-1.5 px-3">Most popular</span>
   
               <div class="mt-5">
-                <span class="text-6xl font-bold text-gray-800">$999</span>
+                <span class="text-6xl font-bold text-gray-800">$499</span>
                 <span class="ms-3 text-gray-500">USD / monthly</span>
               </div>
   
@@ -104,7 +104,7 @@
                       <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                     </span>
                     <span class="text-gray-800">
-                      Average 12 hour delivery
+                      Average 6 hour delivery
                     </span>
                   </li>
   
